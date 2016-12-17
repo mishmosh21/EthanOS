@@ -1,5 +1,5 @@
 These are the commands to install the paper icon pack for Ubuntu, and to customize Ubuntu to the EthanOS expansion pack.
-
+************************************************************************************************************************
 sudo add-apt-repository ppa:snwh/pulp
 
 sudo apt-get update
@@ -7,7 +7,7 @@ sudo apt-get update
 sudo apt-get install paper-gtk-theme
 
 sudo apt-get install paper-icon-theme
-
+************************************************************************************************************************
 Now go into appearance settings and press "customize"
 Select "Blue-Submarine" for controls.
 Leave Colors at their default settings.
