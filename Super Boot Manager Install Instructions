@@ -1,0 +1,20 @@
+These are the install instructions for Super boot manager.
+*****************************************************************
+sudo add-apt-repository ppa:ingalex/super-boot-manager
+
+sudo sh -c "sed -i 's/trusty/raring/g' /etc/apt/sources.list.d/
+
+ingalex-super-boot-manager-trusty.list"
+
+sudo apt-get update
+
+sudo apt-get install super-boot-manager
+
+sudo apt-get install -f
+****************************************************************
+*NOTICE* Make sure to install the BUC installer for your machine before you use the above commands.
+
+Launch super boot manager with:
+****************************************************************
+super-boot-manager
+****************************************************************
