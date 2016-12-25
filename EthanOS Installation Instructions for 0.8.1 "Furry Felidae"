@@ -8,16 +8,28 @@ sudo apt-get install paper-gtk-theme
 
 sudo apt-get install paper-icon-theme
 ************************************************************************************************************************
-Now go into appearance settings and press "customize"
+Now open the home folder and put "/usr/share" into the search box
+find the "icons" folder
+Right click on "icons" and click open as administrator
+Put in your ROOT password
+Extract the "macOS cursor set" .zip folder into the "icons" folder.
+close the home folder window.
+go into appearance settings and press "customize"
 Select "Blue-Submarine" for controls.
 Leave Colors at their default settings.
 Change your Window border to "Paper".
 Change icons to "Paper".
-Change pointer to "DMZ (Black)".
+Change pointer to "neutral".
 Open "MATE Tweak"
 Click "Interface"
 Click the selection in the "Panels" section and switch it to "Mutiny"
 Click "Windows"
 Go to the selection in the "Apperance" section and switch it to "Contemporary (Left)".
+Open the home folder and put "/usr/share" into the search box
+find the "icons" folder
+Right click on "icons" and click open as administrator
+Put in your ROOT password
+Extract the "macOS cursor set" .zip folder into the "icons" folder.
+close the home folder and go back to apperance
 
 
