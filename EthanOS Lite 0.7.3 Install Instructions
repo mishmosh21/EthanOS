@@ -1,0 +1,21 @@
+These are the commands to install the paper icon pack for Lubuntu, and to customize Ubuntu to the EthanOS Lite expansion pack.
+************************************************************************************************************************
+sudo add-apt-repository ppa:snwh/pulp
+
+sudo apt-get update
+
+sudo apt-get install paper-gtk-theme
+
+sudo apt-get install paper-icon-theme
+************************************************************************************************************************
+Next run this command to get into the file manager as root
+************************************************************************************************************************
+gksudo pcmanfm
+************************************************************************************************************************
+Extract the "macOS Cursor Set" 
+Put the extracted file into "/usr/share/icons"
+Close the file manager window and open "Customize look and feel"
+Change the icon theme to "Paper"
+Change the mouse cursor to "neutral"
+Change the window border to "Nightmare"
+
